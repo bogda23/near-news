@@ -1,0 +1,5 @@
+##Links to help with the project
+
+1. https://www.c-sharpcorner.com/article/installation-and-running-react-native-on-windows-os-for-beginner/
+
+2. Next link
